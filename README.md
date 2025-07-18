@@ -3,12 +3,6 @@ This is an excel-based data analysis project.The project involved cleaning,analy
 ## (https://github.com/FunkeOdelana/Amazon-Analysis/tree/main) Files included
 
 
-# 📊 Amazon Product Review Analysis
-
-This is an Excel-based data analysis project completed as part of a case study for RetailTech Insights. The project involved cleaning, analyzing, and visualizing Amazon product and customer review data using Pivot Tables, formulas, and Excel charts.
-
-## 📁 Files Included
-
 - `Amazon_Review_Analysis.xlsx` – Final Excel workbook containing:
   - Cleaned dataset
   - Pivot tables and charts for each of the 14 analysis questions
@@ -18,7 +12,7 @@ This is an Excel-based data analysis project completed as part of a case study f
   - Charts for each question
   - Final dashboard layout
 
-## 📌 Project Objectives
+##  Project Objectives
 
 Analyze Amazon product data to uncover insights about:
 
@@ -37,7 +31,7 @@ Analyze Amazon product data to uncover insights about:
 13. Categories with highest discounts
 14. Top 5 products based on rating and review volume combined
 
-## 📈 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 - Excel Pivot Tables & Charts
 - IF formulas, calculated columns
@@ -45,7 +39,7 @@ Analyze Amazon product data to uncover insights about:
 - Data visualization and dashboard creation
 - Dataset cleaning and organization
 
-## 🧠 Insights Generated
+## Insights Generated
 
 The analysis helped identify:
 - Categories with the best discounts
@@ -53,7 +47,7 @@ The analysis helped identify:
 - Distribution of customer sentiments based on review ratings
 - Revenue opportunities across categories
 
-## 📍 Instructions
+##  Instructions
 
 To view:
 - Open `Amazon_Review_Analysis.xlsx` in Excel
@@ -62,5 +56,5 @@ To view:
 
 ---
 
-*Prepared by   
+*Prepared by FUNKE ODELANA  
  *Submitted as part of the Excel Case Study Project*
